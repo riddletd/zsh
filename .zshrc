@@ -110,6 +110,7 @@ alias ls="ls"
 alias ll="ls -lah"
 alias rm="rm -rf"
 alias cd..="cd .."
+alias chx="chmod +x"
 
 # Functions
 
